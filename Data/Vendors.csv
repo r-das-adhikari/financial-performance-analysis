@@ -1,0 +1,121 @@
+vendor_id,vendor_name,category,region,active
+VEND1000,Johnson-Howard,Supplies,East,Y
+VEND1001,Jensen Ltd,Consulting,South,Y
+VEND1002,Collins Group,Services,North,Y
+VEND1003,"Smith, Kirby and Torres",Utilities,North,Y
+VEND1004,"Mcgrath, Wheeler and Boyd",Utilities,North,Y
+VEND1005,Cooper-Larson,Supplies,South,Y
+VEND1006,Ward-David,Utilities,South,Y
+VEND1007,Savage Ltd,Utilities,West,Y
+VEND1008,Medina-Lee,Services,South,Y
+VEND1009,Griffith and Sons,Services,East,Y
+VEND1010,Thomas-Santana,Rent,South,Y
+VEND1011,Robinson-Gibbs,Services,West,Y
+VEND1012,Miller Inc,Consulting,North,Y
+VEND1013,"Wallace, Monroe and Wall",Services,North,Y
+VEND1014,"Berry, Ruiz and Moses",Utilities,West,Y
+VEND1015,"Jackson, Hutchinson and Hayes",Consulting,East,Y
+VEND1016,White-Richardson,Consulting,East,Y
+VEND1017,Wiggins-Johnston,Rent,South,Y
+VEND1018,"Dorsey, Barrera and Parker",Utilities,East,Y
+VEND1019,"Miller, Lucas and Thompson",Rent,North,Y
+VEND1020,Ramos PLC,Rent,East,Y
+VEND1021,"Williams, Schmidt and Moore",Rent,North,Y
+VEND1022,"Guerrero, Hebert and Barrera",Rent,West,Y
+VEND1023,Hartman-Johnson,Rent,West,Y
+VEND1024,Thompson-Sullivan,Utilities,West,Y
+VEND1025,Martinez-Brown,Supplies,East,Y
+VEND1026,Ho PLC,Services,South,Y
+VEND1027,Jackson-Schultz,Consulting,South,Y
+VEND1028,Williams-Barnes,Services,West,Y
+VEND1029,Bowers-Fisher,Rent,West,Y
+VEND1030,"Dunn, Mann and Huber",Rent,South,Y
+VEND1031,"Green, Lopez and Acosta",Rent,South,Y
+VEND1032,"Horne, Taylor and Watson",Supplies,North,Y
+VEND1033,Burke LLC,Services,South,Y
+VEND1034,"Wolfe, Woods and Sherman",Consulting,South,Y
+VEND1035,"Austin, Thompson and Larson",Services,East,Y
+VEND1036,"Duncan, Henry and Hill",Rent,West,Y
+VEND1037,Campbell-Anthony,Rent,East,Y
+VEND1038,"Bryan, Mcintyre and Frye",Rent,North,Y
+VEND1039,"Doyle, Pitts and Logan",Supplies,East,Y
+VEND1040,"Sandoval, Vang and Silva",Services,North,Y
+VEND1041,Morgan-Joseph,Consulting,South,Y
+VEND1042,Nunez and Sons,Utilities,South,Y
+VEND1043,Stevenson-Murphy,Consulting,East,Y
+VEND1044,Ware-Gonzales,Consulting,East,Y
+VEND1045,"Murillo, Sexton and Jones",Services,West,Y
+VEND1046,Chang LLC,Rent,West,Y
+VEND1047,"Carson, Pena and Phelps",Consulting,North,Y
+VEND1048,"Gordon, Herrera and Thompson",Rent,East,Y
+VEND1049,Stone Group,Utilities,West,Y
+VEND1050,"Dennis, Perry and Bean",Rent,West,Y
+VEND1051,Garcia-Carson,Services,East,Y
+VEND1052,Garcia-Park,Rent,West,Y
+VEND1053,Khan-Baker,Supplies,South,Y
+VEND1054,"Fernandez, Mcintyre and Hamilton",Utilities,West,Y
+VEND1055,"Lawrence, Thompson and Garcia",Rent,East,Y
+VEND1056,"West, Hammond and Smith",Services,East,Y
+VEND1057,Wolfe-Ferguson,Services,North,Y
+VEND1058,"Gilbert, Shepard and Black",Services,East,Y
+VEND1059,"Dominguez, King and Kaufman",Utilities,South,Y
+VEND1060,"Brown, Powers and Weeks",Supplies,South,Y
+VEND1061,Rivers and Sons,Services,East,Y
+VEND1062,Castro-Bentley,Supplies,East,Y
+VEND1063,"Mitchell, Adkins and Norman",Consulting,South,Y
+VEND1064,Dunn and Sons,Consulting,North,Y
+VEND1065,Walker Inc,Supplies,East,Y
+VEND1066,"Fields, Carey and Salazar",Services,East,Y
+VEND1067,"Ward, Porter and Hale",Utilities,South,Y
+VEND1068,Munoz-Wall,Utilities,North,Y
+VEND1069,Murillo-Beck,Consulting,West,Y
+VEND1070,"Ellis, Ortiz and Chen",Consulting,South,Y
+VEND1071,Atkinson Ltd,Services,East,Y
+VEND1072,Gill-Mills,Consulting,South,Y
+VEND1073,"Maldonado, Williams and Gordon",Consulting,North,Y
+VEND1074,Marshall-Campbell,Supplies,West,Y
+VEND1075,Meyer-Ellis,Rent,East,Y
+VEND1076,Green Inc,Services,West,Y
+VEND1077,Park Ltd,Supplies,South,Y
+VEND1078,Alexander-Arnold,Utilities,North,Y
+VEND1079,"Haley, Hart and Conley",Utilities,West,Y
+VEND1080,Blackburn-Thomas,Utilities,North,Y
+VEND1081,Torres PLC,Services,South,Y
+VEND1082,Vasquez Ltd,Rent,West,Y
+VEND1083,"Owens, Johnson and Avila",Supplies,West,Y
+VEND1084,"Patterson, Dennis and Porter",Utilities,South,Y
+VEND1085,"Obrien, Marshall and Farmer",Rent,South,Y
+VEND1086,Green PLC,Rent,North,Y
+VEND1087,"Perez, Richardson and Miller",Consulting,North,Y
+VEND1088,Walker PLC,Supplies,North,Y
+VEND1089,Perry PLC,Supplies,South,Y
+VEND1090,Banks-Davis,Rent,South,Y
+VEND1091,Morales and Sons,Services,West,Y
+VEND1092,Reyes and Sons,Utilities,North,Y
+VEND1093,Shaw PLC,Utilities,East,Y
+VEND1094,Koch-Thompson,Services,South,Y
+VEND1095,"Crawford, Solis and Jackson",Supplies,South,Y
+VEND1096,"Shaffer, Blair and Rodriguez",Rent,North,Y
+VEND1097,Mills PLC,Rent,South,Y
+VEND1098,"Gomez, Wilson and Moore",Consulting,West,Y
+VEND1099,Hurst and Sons,Utilities,North,Y
+VEND1100,Quinn and Sons,Supplies,West,Y
+VEND1101,"Baker, Krueger and Delacruz",Services,East,Y
+VEND1102,Austin-Steele,Supplies,West,Y
+VEND1103,Massey LLC,Utilities,East,Y
+VEND1104,"Wood, Gamble and Williams",Services,West,Y
+VEND1105,"Perez, Williams and Dean",Rent,North,Y
+VEND1106,"Perez, James and Carter",Rent,North,Y
+VEND1107,Smith-Farrell,Services,East,Y
+VEND1108,Gonzales and Sons,Consulting,West,N
+VEND1109,Brown Group,Services,North,N
+VEND1110,Hartman-Harris,Consulting,South,N
+VEND1111,"Harris, Brown and Freeman",Supplies,North,N
+VEND1112,"Harmon, Torres and Mccormick",Supplies,West,N
+VEND1113,Brown Inc,Services,North,N
+VEND1114,Cross Group,Rent,North,N
+VEND1115,Nguyen-Berry,Utilities,East,N
+VEND1116,"Jones, Clark and Myers",Rent,East,N
+VEND1117,"Boyd, Lozano and Gomez",Utilities,East,N
+VEND1118,Gomez Ltd,Utilities,North,N
+VEND1119,Graham-Lopez,Consulting,North,N
